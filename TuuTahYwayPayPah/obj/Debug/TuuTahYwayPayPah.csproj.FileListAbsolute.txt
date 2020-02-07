@@ -1,0 +1,46 @@
+c:\users\mtha\documents\visual studio 2012\Projects\TuuTahYwayPayPah\TuuTahYwayPayPah\bin\Debug\TuuTahYwayPayPah.exe.config
+c:\users\mtha\documents\visual studio 2012\Projects\TuuTahYwayPayPah\TuuTahYwayPayPah\bin\Debug\TuuTahYwayPayPah.exe
+c:\users\mtha\documents\visual studio 2012\Projects\TuuTahYwayPayPah\TuuTahYwayPayPah\bin\Debug\TuuTahYwayPayPah.pdb
+c:\users\mtha\documents\visual studio 2012\Projects\TuuTahYwayPayPah\TuuTahYwayPayPah\obj\Debug\TuuTahYwayPayPah.csprojResolveAssemblyReference.cache
+c:\users\mtha\documents\visual studio 2012\Projects\TuuTahYwayPayPah\TuuTahYwayPayPah\obj\Debug\TuuTahYwayPayPah.Form1.resources
+c:\users\mtha\documents\visual studio 2012\Projects\TuuTahYwayPayPah\TuuTahYwayPayPah\obj\Debug\TuuTahYwayPayPah.Properties.Resources.resources
+c:\users\mtha\documents\visual studio 2012\Projects\TuuTahYwayPayPah\TuuTahYwayPayPah\obj\Debug\TuuTahYwayPayPah.csproj.GenerateResource.Cache
+c:\users\mtha\documents\visual studio 2012\Projects\TuuTahYwayPayPah\TuuTahYwayPayPah\obj\Debug\TuuTahYwayPayPah.exe
+c:\users\mtha\documents\visual studio 2012\Projects\TuuTahYwayPayPah\TuuTahYwayPayPah\obj\Debug\TuuTahYwayPayPah.pdb
+G:\TuuTahYwayPayPah\TuuTahYwayPayPah\bin\Debug\TuuTahYwayPayPah.exe.config
+G:\TuuTahYwayPayPah\TuuTahYwayPayPah\obj\Debug\TuuTahYwayPayPah.exe
+G:\TuuTahYwayPayPah\TuuTahYwayPayPah\obj\Debug\TuuTahYwayPayPah.pdb
+G:\TuuTahYwayPayPah\TuuTahYwayPayPah\bin\Debug\TuuTahYwayPayPah.exe
+G:\TuuTahYwayPayPah\TuuTahYwayPayPah\obj\Debug\TuuTahYwayPayPah.Form1.resources
+G:\TuuTahYwayPayPah\TuuTahYwayPayPah\obj\Debug\TuuTahYwayPayPah.Properties.Resources.resources
+G:\TuuTahYwayPayPah\TuuTahYwayPayPah\obj\Debug\TuuTahYwayPayPah.csproj.GenerateResource.Cache
+D:\TuuTahYwayPayPah\TuuTahYwayPayPah\bin\Debug\TuuTahYwayPayPah.exe.config
+D:\TuuTahYwayPayPah\TuuTahYwayPayPah\obj\Debug\TuuTahYwayPayPah.exe
+D:\TuuTahYwayPayPah\TuuTahYwayPayPah\obj\Debug\TuuTahYwayPayPah.pdb
+D:\TuuTahYwayPayPah\TuuTahYwayPayPah\bin\Debug\TuuTahYwayPayPah.exe
+D:\TuuTahYwayPayPah\TuuTahYwayPayPah\bin\Debug\TuuTahYwayPayPah.pdb
+D:\TuuTahYwayPayPah\TuuTahYwayPayPah\obj\Debug\TuuTahYwayPayPah.csprojResolveAssemblyReference.cache
+D:\TuuTahYwayPayPah\TuuTahYwayPayPah\obj\Debug\TuuTahYwayPayPah.Form1.resources
+D:\TuuTahYwayPayPah\TuuTahYwayPayPah\obj\Debug\TuuTahYwayPayPah.Properties.Resources.resources
+D:\TuuTahYwayPayPah\TuuTahYwayPayPah\obj\Debug\TuuTahYwayPayPah.csproj.GenerateResource.Cache
+F:\Project\C#\TuuTahYwayPayPah\TuuTahYwayPayPah\bin\Debug\TuuTahYwayPayPah.exe.config
+F:\Project\C#\TuuTahYwayPayPah\TuuTahYwayPayPah\obj\Debug\TuuTahYwayPayPah.exe
+F:\Project\C#\TuuTahYwayPayPah\TuuTahYwayPayPah\obj\Debug\TuuTahYwayPayPah.pdb
+F:\Project\C#\TuuTahYwayPayPah\TuuTahYwayPayPah\bin\Debug\TuuTahYwayPayPah.exe
+F:\Project\C#\TuuTahYwayPayPah\TuuTahYwayPayPah\bin\Debug\TuuTahYwayPayPah.pdb
+F:\Project\C#\TuuTahYwayPayPah\TuuTahYwayPayPah\obj\Debug\TuuTahYwayPayPah.csprojResolveAssemblyReference.cache
+F:\Project\C#\TuuTahYwayPayPah\TuuTahYwayPayPah\obj\Debug\TuuTahYwayPayPah.Form1.resources
+F:\Project\C#\TuuTahYwayPayPah\TuuTahYwayPayPah\obj\Debug\TuuTahYwayPayPah.Properties.Resources.resources
+F:\Project\C#\TuuTahYwayPayPah\TuuTahYwayPayPah\obj\Debug\TuuTahYwayPayPah.csproj.GenerateResource.Cache
+K:\TuuTahYwayPayPah_C--master\TuuTahYwayPayPah\bin\Debug\TuuTahYwayPayPah.exe.config
+K:\TuuTahYwayPayPah_C--master\TuuTahYwayPayPah\bin\Debug\TuuTahYwayPayPah.exe
+K:\TuuTahYwayPayPah_C--master\TuuTahYwayPayPah\bin\Debug\TuuTahYwayPayPah.pdb
+K:\TuuTahYwayPayPah_C--master\TuuTahYwayPayPah\obj\Debug\TuuTahYwayPayPah.csprojAssemblyReference.cache
+K:\TuuTahYwayPayPah_C--master\TuuTahYwayPayPah\obj\Debug\TuuTahYwayPayPah.Form1.resources
+K:\TuuTahYwayPayPah_C--master\TuuTahYwayPayPah\obj\Debug\TuuTahYwayPayPah.Properties.Resources.resources
+K:\TuuTahYwayPayPah_C--master\TuuTahYwayPayPah\obj\Debug\TuuTahYwayPayPah.csproj.GenerateResource.cache
+K:\TuuTahYwayPayPah_C--master\TuuTahYwayPayPah\obj\Debug\TuuTahYwayPayPah.exe
+K:\TuuTahYwayPayPah_C--master\TuuTahYwayPayPah\obj\Debug\TuuTahYwayPayPah.pdb
+K:\TuuTahYwayPayPah_C--master\TuuTahYwayPayPah\bin\Debug\Bunifu_UI_v1.5.3.dll
+K:\TuuTahYwayPayPah_C--master\TuuTahYwayPayPah\obj\Debug\TuuTahYwayPayPah.Home.resources
+K:\TuuTahYwayPayPah_C--master\TuuTahYwayPayPah\obj\Debug\TuuTahYwayPayPah.csproj.CopyComplete
